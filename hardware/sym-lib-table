@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name _CrumpSchemes)(type Legacy)(uri ${KIPRJMOD}/includes/CrumpSchemes/crumpschemes.lib)(options "")(descr ""))
+  (lib (name _ProjectSpecific)(type Legacy)(uri /Users/tyler.crumpton/repos/tyler/crump-s2/hardware/includes/ProjectSpecific.pretty/Type-C.lib)(options "")(descr ""))
 )
