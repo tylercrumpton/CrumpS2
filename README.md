@@ -6,7 +6,7 @@ _A super-basic CircuitPython-compatible development board for the ESP32-S2 WiFi 
 
 - ESP32-S2-WROVER module
 - USB-C connector for data and power
-- 3.3V voltage regualtor
+- 3.3V voltage regulator
 - APA102 RGB LED
 - 33 GPIO pins
 - 4 MB SPI flash
